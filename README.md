@@ -9,4 +9,3 @@
 
 [![Linkedin Maksym Vorchakov](https://img.shields.io/badge/-Maksy%20Vorchakov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-luiz-lima/)](https://www.linkedin.com/in/vorchakov/)
 [![Nuget Maksym Vorchakov](https://img.shields.io/badge/-Maksym%20Vorchakov-blue?style=flat-square&logo=nuget&logoColor=white&link=https://www.nuget.org/profiles/fernando.lima/)](https://www.nuget.org/profiles/Vorchakov/)
-[![GitHub Maksym Vorchakov](https://img.shields.io/github/followers/ffernandolima?label=follow&style=social)](https://github.com/ffernandolima)
