@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Maksym Vorchakov and I'm a .NET Software Engineer
+### Hi there 👋 my name is Max Vorchakov and I'm a .NET Software Engineer
 
 - ✉️ How to reach me: m.vorchakov97@gmail.com
 - 👨‍💻 I write code mainly in C#
