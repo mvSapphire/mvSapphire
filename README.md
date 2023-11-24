@@ -1,9 +1,5 @@
 ### Hi there 👋 my name is Max Vorchakov and I'm a .NET Software Engineer
 
-- ✉️ How to reach me: m.vorchakov97@gmail.com
-- 👨‍💻 I write code mainly in C#
-- ⚡ Check my repos, especially [PowerPipe](https://github.com/mvSapphire/PowerPipe)
-
 ![Maksym Vorchakov github stats](https://github-readme-stats.vercel.app/api?username=mvSapphire&count_private=true&theme=tokyonight&show_icons=true)
 
 
